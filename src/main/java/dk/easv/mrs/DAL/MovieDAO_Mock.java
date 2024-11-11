@@ -9,10 +9,12 @@ public class MovieDAO_Mock implements IMovieDataAccess {
 
     public MovieDAO_Mock()
     {
-        allMovies = new ArrayList<>();
+        /*allMovies = new ArrayList<>();
         allMovies.add(new Movie(1, 1991,"Terminator 2"));
         allMovies.add(new Movie(2, 2001,"Harry Potter and the Sorcerer´s Stone"));
         allMovies.add(new Movie(3, 2010, "Inception"));
+
+         */
     }
 
     @Override
